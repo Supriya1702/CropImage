@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79900453171",
+    "firebase_url": "https://cropimage-35bfc.firebaseio.com",
+    "project_id": "cropimage-35bfc",
+    "storage_bucket": "cropimage-35bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79900453171:android:0d45eb1b408219fcabf646",
+        "android_client_info": {
+          "package_name": "com.supriya.cropimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79900453171-09muo980am9dq2qb17l1g6bcjc2olduj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supriya.cropimage",
+            "certificate_hash": "560d8a44053d5c5aea46301dac9c49c35327ebfc"
+          }
+        },
+        {
+          "client_id": "79900453171-julup2mniflvvthiiov0rnat7847imh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_ZcIeWacIJKpqSiow0ggdfLfYnLrE5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79900453171-julup2mniflvvthiiov0rnat7847imh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
